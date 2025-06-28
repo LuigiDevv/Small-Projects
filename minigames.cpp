@@ -4,7 +4,7 @@
 #include <vector>
 #include <cctype>
 using namespace std;
-// all code ideas I generated using AI, because there is no more options , at least I have to to do some basic stuff.
+// all code ideas I just found
 // game tools section
 vector<string> list = {};
 const string albet{"abcdefghijklmnopqrstuvwxyz"};
